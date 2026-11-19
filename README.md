@@ -1,5 +1,3 @@
-# Arquetipos narrativos en comunicación en ciencia de datos
-
 **Cinco historias basadas en datos reales, construidas sobre cinco arquetipos narrativos distintos.**
 
 Diego Miguel González Marín  
@@ -32,7 +30,7 @@ Cada carpeta `HISTORIA N/` contiene el PDF de la historia y, cuando corresponde,
 | `HISTORIA 2` | Amenaza vencida | *El mosquito que perdió la isla* | Eliminación de la malaria en Sri Lanka (1999-2012) |
 | `HISTORIA 3` | Ironía | *La meta que no se movió* | La meta europea del 3 % del PIB en I+D |
 | `HISTORIA 4` | Renacimiento | *El año en que la lluvia dejó de mandar* | Transición energética de Uruguay (2006-2019) |
-| `HISTORIA 5` | Pendiente | Pendiente | Pendiente |
+| `HISTORIA 5` | Caída y recuperación | *El país que volvió a plantarse* | Recuperación forestal de Costa Rica (1940-2015) |
 
 ## Sobre los datos
 
